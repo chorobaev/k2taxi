@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Card">
+        <attr name="icon" format="reference" />
+        <attr name="tariff" format="string" />
+        <attr name="price" format="integer" />
+    </declare-styleable>
+</resources>
